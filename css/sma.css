@@ -41,6 +41,7 @@ hr {
 
 /***header***/
 header {
+	max-width: 500px;
 	width: 100vw;
 	position: fixed;
 	z-index: 1;
@@ -201,6 +202,7 @@ figure {
 /*하단*/
 footer {
 	position: fixed;
+	max-width: 500px;
 	width: 100vw;
 	bottom: 0;
 	display: flex;
